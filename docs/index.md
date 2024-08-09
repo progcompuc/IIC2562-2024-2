@@ -1,6 +1,6 @@
 ---
 title: "Información Básica"
-description: "Información Básica sobre el ramo Taller de Programación Competitiva W IIC255X-202Y-Z"
+description: "Información Básica sobre el ramo Taller de Programación Competitiva W IIC2562-2024-2"
 ---
 
 
@@ -8,17 +8,19 @@ description: "Información Básica sobre el ramo Taller de Programación Competi
 
 ### Clases
 
-Horario: 14:00-18:30
+Horario: 14:50-17:20
 
-Sala Javier Pinto, DCC (4to piso Edificio San Agustín, el primero a mano derecha desde el metro)
+~~Sala Javier Pinto, DCC~~
+
+Sala B14, Ingeniería
 
 ### Profesor
 
-{ Nombre del profesor } (<correo@uc.cl>)
+Martín Muñoz (<mmunos@uc.cl>)
 
 ### Ayudante
 
-{ Nombre del ayudante } (<correo@uc.cl>)
+Isabella Cherubini (<isabella.cherubini@uc.cl>)
 
 ### Telegram del curso (medio oficial de comunicación)
 
@@ -26,4 +28,4 @@ Sala Javier Pinto, DCC (4to piso Edificio San Agustín, el primero a mano derech
 
 ### Spreadsheet de notas y asistencia
 
-[Ver spreadsheet :material-google-spreadsheet:](){ .md-button .md-button--primary }
+[Ver spreadsheet :material-google-spreadsheet:](https://docs.google.com/spreadsheets/d/1l0CPc2TjM-rWherMttWOp-kpdffBH6Y2qm4qMvv7gsY/edit?usp=sharing){ .md-button .md-button--primary }
