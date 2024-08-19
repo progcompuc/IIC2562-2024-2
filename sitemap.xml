@@ -2,152 +2,147 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://ProgramacionCompetitivaPUC.github.io/IIC2562-2024-2/</loc>
-         <lastmod>2024-08-09</lastmod>
+         <lastmod>2024-08-19</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://ProgramacionCompetitivaPUC.github.io/IIC2562-2024-2/ethics/</loc>
-         <lastmod>2024-08-09</lastmod>
+         <lastmod>2024-08-19</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://ProgramacionCompetitivaPUC.github.io/IIC2562-2024-2/help/</loc>
-         <lastmod>2024-08-09</lastmod>
+         <lastmod>2024-08-19</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://ProgramacionCompetitivaPUC.github.io/IIC2562-2024-2/tips/</loc>
-         <lastmod>2024-08-09</lastmod>
+         <lastmod>2024-08-19</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://ProgramacionCompetitivaPUC.github.io/IIC2562-2024-2/about/activities/</loc>
-         <lastmod>2024-08-09</lastmod>
+         <lastmod>2024-08-19</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://ProgramacionCompetitivaPUC.github.io/IIC2562-2024-2/about/grading/</loc>
-         <lastmod>2024-08-09</lastmod>
+         <lastmod>2024-08-19</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://ProgramacionCompetitivaPUC.github.io/IIC2562-2024-2/about/introduction/</loc>
-         <lastmod>2024-08-09</lastmod>
+         <lastmod>2024-08-19</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://ProgramacionCompetitivaPUC.github.io/IIC2562-2024-2/about/syllabus/</loc>
-         <lastmod>2024-08-09</lastmod>
+         <lastmod>2024-08-19</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://ProgramacionCompetitivaPUC.github.io/IIC2562-2024-2/contests/</loc>
-         <lastmod>2024-08-09</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://ProgramacionCompetitivaPUC.github.io/IIC2562-2024-2/contests/hints/contest1/</loc>
-         <lastmod>2024-08-09</lastmod>
+         <lastmod>2024-08-19</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://ProgramacionCompetitivaPUC.github.io/IIC2562-2024-2/notes/geometry/base_implementation/</loc>
-         <lastmod>2024-08-09</lastmod>
+         <lastmod>2024-08-19</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://ProgramacionCompetitivaPUC.github.io/IIC2562-2024-2/notes/geometry/dot_and_cross_product/</loc>
-         <lastmod>2024-08-09</lastmod>
+         <lastmod>2024-08-19</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://ProgramacionCompetitivaPUC.github.io/IIC2562-2024-2/notes/math/modular_arithmetic/</loc>
-         <lastmod>2024-08-09</lastmod>
+         <lastmod>2024-08-19</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://ProgramacionCompetitivaPUC.github.io/IIC2562-2024-2/notes/strings/kmp/</loc>
-         <lastmod>2024-08-09</lastmod>
+         <lastmod>2024-08-19</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://ProgramacionCompetitivaPUC.github.io/IIC2562-2024-2/notes/strings/rolling_hashing/</loc>
-         <lastmod>2024-08-09</lastmod>
+         <lastmod>2024-08-19</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://ProgramacionCompetitivaPUC.github.io/IIC2562-2024-2/notes/strings/trie_string/</loc>
-         <lastmod>2024-08-09</lastmod>
+         <lastmod>2024-08-19</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://ProgramacionCompetitivaPUC.github.io/IIC2562-2024-2/resources/</loc>
-         <lastmod>2024-08-09</lastmod>
+         <lastmod>2024-08-19</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://ProgramacionCompetitivaPUC.github.io/IIC2562-2024-2/resources/backtracking/</loc>
-         <lastmod>2024-08-09</lastmod>
+         <lastmod>2024-08-19</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://ProgramacionCompetitivaPUC.github.io/IIC2562-2024-2/resources/data_structures/</loc>
-         <lastmod>2024-08-09</lastmod>
+         <lastmod>2024-08-19</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://ProgramacionCompetitivaPUC.github.io/IIC2562-2024-2/resources/divconq/</loc>
-         <lastmod>2024-08-09</lastmod>
+         <lastmod>2024-08-19</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://ProgramacionCompetitivaPUC.github.io/IIC2562-2024-2/resources/dp/</loc>
-         <lastmod>2024-08-09</lastmod>
+         <lastmod>2024-08-19</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://ProgramacionCompetitivaPUC.github.io/IIC2562-2024-2/resources/geometry/</loc>
-         <lastmod>2024-08-09</lastmod>
+         <lastmod>2024-08-19</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://ProgramacionCompetitivaPUC.github.io/IIC2562-2024-2/resources/graphs/</loc>
-         <lastmod>2024-08-09</lastmod>
+         <lastmod>2024-08-19</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://ProgramacionCompetitivaPUC.github.io/IIC2562-2024-2/resources/greedy/</loc>
-         <lastmod>2024-08-09</lastmod>
+         <lastmod>2024-08-19</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://ProgramacionCompetitivaPUC.github.io/IIC2562-2024-2/resources/math/</loc>
-         <lastmod>2024-08-09</lastmod>
+         <lastmod>2024-08-19</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://ProgramacionCompetitivaPUC.github.io/IIC2562-2024-2/resources/search/</loc>
-         <lastmod>2024-08-09</lastmod>
+         <lastmod>2024-08-19</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://ProgramacionCompetitivaPUC.github.io/IIC2562-2024-2/resources/sqrtdecomp/</loc>
-         <lastmod>2024-08-09</lastmod>
+         <lastmod>2024-08-19</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://ProgramacionCompetitivaPUC.github.io/IIC2562-2024-2/resources/strings/</loc>
-         <lastmod>2024-08-09</lastmod>
+         <lastmod>2024-08-19</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://ProgramacionCompetitivaPUC.github.io/IIC2562-2024-2/resources/cpp/</loc>
-         <lastmod>2024-08-09</lastmod>
+         <lastmod>2024-08-19</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://ProgramacionCompetitivaPUC.github.io/IIC2562-2024-2/resources/cpp/cpp_osx/</loc>
-         <lastmod>2024-08-09</lastmod>
+         <lastmod>2024-08-19</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
