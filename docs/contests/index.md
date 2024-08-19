@@ -6,16 +6,29 @@ title: Contests
 
 ## Contest 1
 
-Agosto 11, 15 días, [link a **contest**](https://vjudge.net/contest/510018)
+Agosto 9, 15 días, [link a **contest**](https://vjudge.net/contest/647460)
 
-**Tópicos**: [Estructuras de Datos de C++ STL](../resources/data_structures)
+**Tópicos**: Intro a progcomp
 
 **Puntos**:
 
-| Problema  | `A` | `B` | `C` | `D` | `E` | `F` | `G` | `H` | `I` | `J` | `K` |
-| --------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Puntaje   |  4  |  3  |  3  |  4  |  4  |  3  |  3  |  3  |  4  |  4  |  6  |
+| Problema  | `A` | `B` | `C` | `D` | `E` | `F` | `G` | `H` |
+| --------- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Puntaje   |  1  |  1  |  2  |  2  |  3  |  3  |  4  |  4  | 
 
-**Puntaje Mínimo Esperado**: 5
 
-**Hints** y **códigos de ejemplo**: [link](hints/contest1)
+## Contest 2
+
+Agosto 16, 15 días, [link a **contest**](https://vjudge.net/contest/649163)
+
+**Tópicos**: Búsqueda binaria y ternaria
+
+**Puntos**:
+
+| Problema  | `A` | `B` | `C` | `D` | `E` | `F` | `G` | `H` |
+| --------- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Puntaje   |  1  |  2  |  2  |  2  |  3  |  3  |  4  |  4  | 
+
+
+
+
